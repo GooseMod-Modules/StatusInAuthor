@@ -1,0 +1,12 @@
+{
+  "main": "index.js",
+
+  "name": "Status In Author",
+  "description": "Adds status to message's author",
+
+  "tags": ["ui"],
+
+  "authors": ["506482395269169153"],
+
+  "version": "1.0.0"
+}
